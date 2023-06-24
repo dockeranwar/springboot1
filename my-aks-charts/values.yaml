@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: openacr12.azurecr.io/springboot1
+  repository: openacr007.azurecr.io/springboot1
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
